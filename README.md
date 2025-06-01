@@ -12,12 +12,12 @@ Creators: Renate Zhang
 
 ## Features
 
-### 🎓 Educational Focus
+### Educational Focus
 - Introduces users to key components of a 3D printer
 - Guides users through setup and printing in an interactive way
 - Encourages hands-on learning via immersive AR interactions
 
-### 🧩 Core Functionality
+### Core Functionality
 
 - **Image Tracking (Hiro Marker)**: Printer is placed precisely using a tracked image marker
 - **World-Anchored Interactions**: The printer remains fixed in AR space relative to the environment
@@ -29,7 +29,7 @@ Creators: Renate Zhang
 - **Component Overlays**: Toggle labels and highlights for extruder, bed, spool, etc.
 - **Animated Print Process**: See the printer animate a simplified print in real time
 
-### 🌟 Special Features
+### Special Features
 
 - **Dynamic Content Generation**: Simulate printing different models such as cubes, logos, or custom objects
 - **Parametric Print Models**: Customize the model’s size, shape, and color via UI
