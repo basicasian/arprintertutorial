@@ -8,7 +8,11 @@
 
 **AR 3D Printer Tutorial** is a mobile AR application designed to teach users how to use a 3D printer—specifically the **Bambu Lab A1**—through an interactive, gamified experience. By scanning a marker in the real world, users can place a virtual 3D printer, explore its components, and simulate a print process with visual and audio feedback. This project was done as part of the 2025SS Virtual and Augmented Reality: Advanced Topics and was also used for the class 2025SS Free and Open Technologies.
 
-Creators: Renate Zhang
+<p align="middle">
+  <img src="printorial-3dprinter.png" alt="Gameplay Screenshot" width="60%"/> 
+</p>
+
+**Creator**: Renate Zhang
 
 ## Features
 
